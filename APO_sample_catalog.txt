@@ -1,0 +1,6 @@
+
+CSys=FK5; Date=2000; RotType=Object; RotAng=0; RotWrap=Middle; Keep=Arc; dispcolor=darkorange
+
+"WD1202"		12:05:15.8	-02:42:22.75 PM=-1.97, 0.90; Magnitude=18.5
+"SDSS1411"	14:11:26.2	+20:09:11.03    PM=-4.59, 1.62; Magnitude=17.8
+"WD1032"		10:34:48.9	+00:52:1.37  PM=-9.48, 2.0; Magnitude=19.0

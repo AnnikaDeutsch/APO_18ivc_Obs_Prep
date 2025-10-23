@@ -1,0 +1,5 @@
+CSys=---; Date=2000; RotType=??; RotAng=??; RotWrap=??; Keep=??; dispcolor=??
+
+"SN2018ivc"     02:42:41.3  -00:00:31.92    PM=--.--, -.--; Magnitude=--.-
+"Nearby Bright Guide Star (have a few options?)"
+"Backup Sources??"
